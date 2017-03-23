@@ -1,1 +1,1 @@
-This repo contains scripts with example usage of tensorflow profiler and already generated timelines for this blog post. 
+This repo contains scripts with example usage of tensorflow profiler and already generated timelines for this `blog post <https://medium.com/@illarionkhlestov/howto-profile-tensorflow-1a49fb18073d>`__.
